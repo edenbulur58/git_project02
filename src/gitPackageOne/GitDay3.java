@@ -6,8 +6,8 @@ public class GitDay3 {
 		
 
 	System.out.println("My first changes on local master");	
-		
-		
+	
+	System.out.println("THİS İS MY FEATURE BRANCH");	
 		
 		
 		
