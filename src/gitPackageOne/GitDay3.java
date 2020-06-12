@@ -6,11 +6,9 @@ public class GitDay3 {
 		
 
 	System.out.println("My first changes on local master");	
-	
 	System.out.println("THİS İS MY FEATURE BRANCH");	
-		
 	System.out.println(" MY second push from local FEATURE BRANCH");
-	System.out.println(" MY th'rd push from local FEATURE BRANCH");
+	System.out.println(" MY third push from local FEATURE BRANCH");
 		
 
 	}
